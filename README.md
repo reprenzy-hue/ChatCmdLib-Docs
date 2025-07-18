@@ -15,7 +15,7 @@ A lightweight Roblox **Chat Command Library** for exploit scripts, designed for 
 
 ## 📥 Installation
 ```lua
-local cmd = loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_REPO/ChatCmdLib/main.lua"))()
+local cmd = loadstring(game:HttpGet("https://raw.githubusercontent.com/reprenzy-hue/ChatCmdLib-Docs/refs/heads/main/source.lua"))()
 ```
 
 ---
